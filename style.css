@@ -7,6 +7,7 @@
 .navbar{
     padding: 20px;
     font-color: #FFFFFF;
+    width: 100%
 }
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
 .navbar-brand{
